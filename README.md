@@ -1,4 +1,6 @@
-![Header](github-header-image.png)
+![Header](g[ithub-header-image.png](https://user-images.githubusercontent.com/87651777/219900477-b989185a-6a9d-4e50-b282-113b4619d01c.png))
+
+
 ### Hi there 👋
 
 <!--
