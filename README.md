@@ -1,6 +1,4 @@
-![Header](github-header-image.png](https://user-images.githubusercontent.com/87651777/219900477-b989185a-6a9d-4e50-b282-113b4619d01c.png))
-
-![github-header-image](https://user-images.githubusercontent.com/87651777/219900517-a17f8b42-e041-434a-ab9b-f2111a985b0b.png)
+![Header](https://user-images.githubusercontent.com/87651777/219900517-a17f8b42-e041-434a-ab9b-f2111a985b0b.png)
 
 ### Hi there 👋
 
