@@ -1,6 +1,6 @@
 ![Header](https://user-images.githubusercontent.com/87651777/219900517-a17f8b42-e041-434a-ab9b-f2111a985b0b.png)
 
-### Hi there 👋
+
 
 <!--
 **tweger1999/tweger1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
