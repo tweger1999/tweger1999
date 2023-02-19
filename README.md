@@ -21,4 +21,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/BadgeText-ColourCode?logo=C&logoColor=ColorName&style=ShieldStyle" />
 
 <img src="https://img.shields.io/badge/BadgeText-ColourCode?logo=C Sharp&logoColor=ColorName&style=ShieldStyle" />
+
+<img src="https://img.shields.io/badge/BadgeText-ColourCode?logo=C ++&logoColor=ColorName&style=ShieldStyle" />
+
 <img src="https://img.shields.io/badge/BadgeText-ColourCode?logo=C++&logoColor=ColorName&style=ShieldStyle" />
