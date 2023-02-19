@@ -15,14 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://img.shields.io/badge/Adafruit-ColourCode?logo=Adafruit&logoColor=ColorName&style=ShieldStyle" />
+<img src="https://img.shields.io/badge/Adafruit-ColourCode?logo=Adafruit&logoColor=FFFFFF&style=ShieldStyle" />
 
 
-<img src="https://img.shields.io/badge/BadgeText-ColourCode?logo=C&logoColor=ColorName&style=ShieldStyle" />
+<img src="https://img.shields.io/badge/BadgeText-ColourCode?logo=C&logoColor=FFFFFF&style=ShieldStyle" />
 
-<img src="https://img.shields.io/badge/BadgeText-ColourCode?logo=C Sharp&logoColor=ColorName&style=ShieldStyle" />
+<img src="https://img.shields.io/badge/BadgeText-ColourCode?logo=C Sharp&logoColor=FFFFFF&style=ShieldStyle" />
 
 <img src="https://img.shields.io/badge/BadgeText-000000?logo=Python&logoColor=FFFFFF&style=ShieldStyle" />
+
+<img src="https://img.shields.io/badge/BadgeText-000000?logo=C++&logoColor=FFFFFF&style=ShieldStyle" />
 
 <img src="https://img.shields.io/badge/BadgeText-ColourCode?logo=C ++&logoColor=ColorName&style=ShieldStyle" />
 
