@@ -50,15 +50,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=Adobe-Photoshop&logoColor=FFFFFF&style=ShieldStyle" />
 
 
-<img src="https://img.shields.io/badge/Microsoft Excel-217346?logo=Microsoft-Excel&logoColor=FFFFFF&style=ShieldStyle" />
-<img src="https://img.shields.io/badge/Microsoft Word-2B579A?logo=Microsoft-Word&logoColor=FFFFFF&style=ShieldStyle" />
-<img src="https://img.shields.io/badge/Microsoft Teams-6264A7?logo=Microsoft-Teams&logoColor=FFFFFF&style=ShieldStyle" />
-<img src="https://img.shields.io/badge/Microsoft Office-D83B01?logo=Microsoft-Office&logoColor=FFFFFF&style=ShieldStyle" />
-<img src="https://img.shields.io/badge/Microsoft OneNote-7719AA?logo=Microsoft-OneNote&logoColor=FFFFFF&style=ShieldStyle" />
-<img src="https://img.shields.io/badge/Microsoft Outlook-0078D4?logo=Microsoft-Outlook&logoColor=FFFFFF&style=ShieldStyle" />
-<img src="https://img.shields.io/badge/Microsoft OneDrive-0078D4?logo=Microsoft-OneDrive&logoColor=FFFFFF&style=ShieldStyle" />
-<img src="https://img.shields.io/badge/Microsoft Powerpoint-B7472A?logo=Microsoft-Powerpoint&logoColor=FFFFFF&style=ShieldStyle" />
-<img src="https://img.shields.io/badge/Microsoft Sharepoint-0078D4?logo=Microsoft-Sharepoint&logoColor=FFFFFF&style=ShieldStyle" />
+<img src="https://img.shields.io/badge/Microsoft Excel-217346?logo=Microsoft-Excel&logoColor=FFFFFF&style=ShieldStyle" />     <img src="https://img.shields.io/badge/Microsoft Office-D83B01?logo=Microsoft-Office&logoColor=FFFFFF&style=ShieldStyle" />     <img src="https://img.shields.io/badge/Microsoft OneDrive-0078D4?logo=Microsoft-OneDrive&logoColor=FFFFFF&style=ShieldStyle" />     <img src="https://img.shields.io/badge/Microsoft OneNote-7719AA?logo=Microsoft-OneNote&logoColor=FFFFFF&style=ShieldStyle" />     <img src="https://img.shields.io/badge/Microsoft Outlook-0078D4?logo=Microsoft-Outlook&logoColor=FFFFFF&style=ShieldStyle" />     <img src="https://img.shields.io/badge/Microsoft Powerpoint-B7472A?logo=Microsoft-Powerpoint&logoColor=FFFFFF&style=ShieldStyle" />     <img src="https://img.shields.io/badge/Microsoft Sharepoint-0078D4?logo=Microsoft-Sharepoint&logoColor=FFFFFF&style=ShieldStyle" />     <img src="https://img.shields.io/badge/Microsoft Teams-6264A7?logo=Microsoft-Teams&logoColor=FFFFFF&style=ShieldStyle" />     <img src="https://img.shields.io/badge/Microsoft Word-2B579A?logo=Microsoft-Word&logoColor=FFFFFF&style=ShieldStyle" />
 
 Operating Systems
 
