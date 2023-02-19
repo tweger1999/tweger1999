@@ -15,20 +15,28 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://img.shields.io/badge/Adafruit-ColourCode?logo=Adafruit&logoColor=FFFFFF&style=ShieldStyle" />
+<img src="https://img.shields.io/badge/Adafruit-000000?logo=Adafruit&logoColor=FFFFFF&style=ShieldStyle" />
 
-<img src="https://img.shields.io/badge/BadgeText-ColourCode?logo=C&logoColor=FFFFFF&style=ShieldStyle" />
+<img src="https://img.shields.io/badge/BadgeText-A8B9CC?logo=C&logoColor=FFFFFF&style=ShieldStyle" />
 
-<img src="https://img.shields.io/badge/BadgeText-000000?logo=Python&logoColor=FFFFFF&style=ShieldStyle" />
+<img src="https://img.shields.io/badge/BadgeText-3776AB?logo=Python&logoColor=FFFFFF&style=ShieldStyle" />
 
-<img src="https://img.shields.io/badge/BadgeText-000000?logo=Arduino&logoColor=FFFFFF&style=ShieldStyle" />
+<img src="https://img.shields.io/badge/BadgeText-00979D?logo=Arduino&logoColor=FFFFFF&style=ShieldStyle" />
 
-<img src="https://img.shields.io/badge/BadgeText-000000?logo=cplusplus&logoColor=FFFFFF&style=ShieldStyle" />
+<img src="https://img.shields.io/badge/BadgeText-00599C?logo=cplusplus&logoColor=FFFFFF&style=ShieldStyle" />
+
+<img src="https://img.shields.io/badge/BadgeText-4479A1?logo=MySQL&logoColor=FFFFFF&style=ShieldStyle" />
+
+<img src="https://img.shields.io/badge/BadgeText-CC2927?logo=Microsoft-SQL-Server&logoColor=FFFFFF&style=ShieldStyle" />
+
+<img src="https://img.shields.io/badge/BadgeText-000000?logo=MySQL&logoColor=FFFFFF&style=ShieldStyle" />
 
 <img src="https://img.shields.io/badge/BadgeText-000000?logo=MySQL&logoColor=FFFFFF&style=ShieldStyle" />
 
-<img src="https://img.shields.io/badge/BadgeText-000000?logo=Microsoft-SQL-Server&logoColor=FFFFFF&style=ShieldStyle" />
 
-<img src="https://img.shields.io/badge/BadgeText-000000?logo=MySQL&logoColor=FFFFFF&style=ShieldStyle" />
+Operating Systems
 
-<img src="https://img.shields.io/badge/BadgeText-000000?logo=MySQL&logoColor=FFFFFF&style=ShieldStyle" />
+
+<img src="https://img.shields.io/badge/BadgeText-0078D6?logo=Windows&logoColor=FFFFFF&style=ShieldStyle" />
+<img src="https://img.shields.io/badge/BadgeText-FCC624?logo=Linux&logoColor=FFFFFF&style=ShieldStyle" />
+<img src="https://img.shields.io/badge/BadgeText-000000?logo=MacOS&logoColor=FFFFFF&style=ShieldStyle" />
