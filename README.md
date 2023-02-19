@@ -63,4 +63,4 @@ Here are some ideas to get you started:
 Operating Systems
 
 
-<img src="https://img.shields.io/badge/Windows-0078D6?logo=Windows&logoColor=FFFFFF&style=ShieldStyle" />   <img src="https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=FFFFFF&style=ShieldStyle" />   <img src="https://img.shields.io/badge/MacOS-000000?logo=MacOS&logoColor=FFFFFF&style=ShieldStyle" />
+<img src="https://img.shields.io/badge/Windows-0078D6?logo=Windows&logoColor=FFFFFF&style=ShieldStyle" />         <img src="https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=FFFFFF&style=ShieldStyle" />         <img src="https://img.shields.io/badge/MacOS-000000?logo=MacOS&logoColor=FFFFFF&style=ShieldStyle" />
