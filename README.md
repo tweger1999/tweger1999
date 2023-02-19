@@ -17,7 +17,11 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/Adafruit-000000?logo=Adafruit&logoColor=FFFFFF&style=ShieldStyle" />
 
+<img src="https://img.shields.io/badge/Raspberry Pi-A22846?logo=Raspberry-Pi&logoColor=FFFFFF&style=ShieldStyle" />
+
 <img src="https://img.shields.io/badge/BadgeText-A8B9CC?logo=C&logoColor=FFFFFF&style=ShieldStyle" />
+
+<img src="https://img.shields.io/badge/BadgeText-E34F26?logo=HTML5&logoColor=FFFFFF&style=ShieldStyle" />
 
 <img src="https://img.shields.io/badge/BadgeText-3776AB?logo=Python&logoColor=FFFFFF&style=ShieldStyle" />
 
@@ -29,9 +33,28 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/BadgeText-CC2927?logo=Microsoft-SQL-Server&logoColor=FFFFFF&style=ShieldStyle" />
 
-<img src="https://img.shields.io/badge/BadgeText-000000?logo=MySQL&logoColor=FFFFFF&style=ShieldStyle" />
+<img src="https://img.shields.io/badge/BadgeText-181717?logo=GitHub&logoColor=FFFFFF&style=ShieldStyle" />
 
-<img src="https://img.shields.io/badge/BadgeText-000000?logo=MySQL&logoColor=FFFFFF&style=ShieldStyle" />
+<img src="https://img.shields.io/badge/BadgeText-007ACC?logo=Visual-Studio-Code&logoColor=FFFFFF&style=ShieldStyle" />
+
+<img src="https://img.shields.io/badge/BadgeText-5C2D91?logo=Visual-Studio&logoColor=FFFFFF&style=ShieldStyle" />
+
+<img src="https://img.shields.io/badge/BadgeText-000000?logo=PyCharm&logoColor=FFFFFF&style=ShieldStyle" />
+
+<img src="https://img.shields.io/badge/BadgeText-F9AB00?logo=Google-Colab&logoColor=FFFFFF&style=ShieldStyle" />
+
+<img src="https://img.shields.io/badge/BadgeText-20BEFF?logo=Kaggle&logoColor=FFFFFF&style=ShieldStyle" />
+
+<img src="https://img.shields.io/badge/BadgeText-F9AB00?logo=Google-Colab&logoColor=FFFFFF&style=ShieldStyle" />
+
+<img src="https://img.shields.io/badge/BadgeText-44A833?logo=Anaconda&logoColor=FFFFFF&style=ShieldStyle" />
+
+<img src="https://img.shields.io/badge/BadgeText-0696D7?logo=Autodesk&logoColor=FFFFFF&style=ShieldStyle" />
+
+<img src="https://img.shields.io/badge/BadgeText-31A8FF?logo=Adobe-Lightroom&logoColor=FFFFFF&style=ShieldStyle" />
+<img src="https://img.shields.io/badge/BadgeText-31A8FF?logo=Adobe-Photoshop&logoColor=FFFFFF&style=ShieldStyle" />
+<img src="https://img.shields.io/badge/BadgeText-FF9A00?logo=Adobe-Illustrator&logoColor=FFFFFF&style=ShieldStyle" />
+<img src="https://img.shields.io/badge/BadgeText-DA1F26?logo=Adobe-Creative-Cloud&logoColor=FFFFFF&style=ShieldStyle" />
 
 <img src="https://img.shields.io/badge/BadgeText-2B579A?logo=Microsoft-Word&logoColor=FFFFFF&style=ShieldStyle" />
 <img src="https://img.shields.io/badge/BadgeText-217346?logo=Microsoft-Excel&logoColor=FFFFFF&style=ShieldStyle" />
