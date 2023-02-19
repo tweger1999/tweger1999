@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
+
+
+https://badgen.net/badge/:subject/:status/:color?icon=github
