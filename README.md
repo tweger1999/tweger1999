@@ -33,6 +33,15 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/BadgeText-000000?logo=MySQL&logoColor=FFFFFF&style=ShieldStyle" />
 
+<img src="https://img.shields.io/badge/BadgeText-2B579A?logo=Microsoft-Word&logoColor=FFFFFF&style=ShieldStyle" />
+<img src="https://img.shields.io/badge/BadgeText-217346?logo=Microsoft-Excel&logoColor=FFFFFF&style=ShieldStyle" />
+<img src="https://img.shields.io/badge/BadgeText-6264A7?logo=Microsoft-Teams&logoColor=FFFFFF&style=ShieldStyle" />
+<img src="https://img.shields.io/badge/BadgeText-D83B01?logo=Microsoft-Office&logoColor=FFFFFF&style=ShieldStyle" />
+<img src="https://img.shields.io/badge/BadgeText-7719AA?logo=Microsoft-OneNote&logoColor=FFFFFF&style=ShieldStyle" />
+<img src="https://img.shields.io/badge/BadgeText-0078D4?logo=Microsoft-Outlook&logoColor=FFFFFF&style=ShieldStyle" />
+<img src="https://img.shields.io/badge/BadgeText-0078D4?logo=Microsoft-OneDrive&logoColor=FFFFFF&style=ShieldStyle" />
+<img src="https://img.shields.io/badge/BadgeText-B7472A?logo=Microsoft-Powerpoint&logoColor=FFFFFF&style=ShieldStyle" />
+<img src="https://img.shields.io/badge/BadgeText-0078D4?logo=Microsoft-Sharepoint&logoColor=FFFFFF&style=ShieldStyle" />
 
 Operating Systems
 
