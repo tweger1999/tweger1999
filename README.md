@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://img.shields.io/badge/Adafruit-000000?logo=Adafruit&logoColor=ColorName&style=ShieldStyle" />
+<img src="https://img.shields.io/badge/Adafruit-ColourCode?logo=Adafruit&logoColor=ColorName&style=ShieldStyle" />
 
-<img src="https://img.shields.io/badge/BadgeText-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
+<img src="https://img.shields.io/badge/C++-ColourCode?logo=C++&00599C=ColorName&style=ShieldStyle" />
 
 <img src="https://img.shields.io/badge/BadgeText-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
