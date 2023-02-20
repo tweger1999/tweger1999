@@ -24,7 +24,7 @@ Microcontrollers
 <img src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=FFFFFF&style=ShieldStyle" />
 <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=FFFFFF&style=ShieldStyle" />
 
-Version Control and Development tools used:
+Version Control and Development tools used:     
 <img src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=FFFFFF&style=ShieldStyle" />     <img src="https://img.shields.io/badge/Google Colab-F9AB00?logo=Google-Colab&logoColor=FFFFFF&style=ShieldStyle" />     <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=Visual-Studio-Code&logoColor=FFFFFF&style=ShieldStyle" />     <img src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=Visual-Studio&logoColor=FFFFFF&style=ShieldStyle" />     <img src="https://img.shields.io/badge/PyCharm-000000?logo=PyCharm&logoColor=FFFFFF&style=ShieldStyle" />     <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=Kaggle&logoColor=FFFFFF&style=ShieldStyle" />     <img src="https://img.shields.io/badge/Anaconda-44A833?logo=Anaconda&logoColor=FFFFFF&style=ShieldStyle" />     <img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=FFFFFF&style=ShieldStyle" />     <img src="https://img.shields.io/badge/Microsoft SQL-CC2927?logo=Microsoft-SQL-Server&logoColor=FFFFFF&style=ShieldStyle" />
 
 
