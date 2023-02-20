@@ -17,10 +17,7 @@ Here are some ideas to get you started:
 
 Some Programming Languages Familiar With:
 
-<img src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=FFFFFF&style=ShieldStyle" />
-<img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=FFFFFF&style=ShieldStyle" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=FFFFFF&style=ShieldStyle" />
-<img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=FFFFFF&style=ShieldStyle" />
+<img src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=FFFFFF&style=ShieldStyle" />     <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=FFFFFF&style=ShieldStyle" />     <img src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=FFFFFF&style=ShieldStyle" />     <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=FFFFFF&style=ShieldStyle" />
 
 Operating Systems:
 
@@ -32,9 +29,7 @@ Version Control and Development Tools Used:
 
 Microcontrollers:
 
-<img src="https://img.shields.io/badge/Adafruit-000000?logo=Adafruit&logoColor=FFFFFF&style=ShieldStyle" />
-<img src="https://img.shields.io/badge/Arduino-00979D?logo=Arduino&logoColor=FFFFFF&style=ShieldStyle" />
-<img src="https://img.shields.io/badge/Raspberry Pi-A22846?logo=Raspberry-Pi&logoColor=FFFFFF&style=ShieldStyle" />
+<img src="https://img.shields.io/badge/Adafruit-000000?logo=Adafruit&logoColor=FFFFFF&style=ShieldStyle" />     <img src="https://img.shields.io/badge/Arduino-00979D?logo=Arduino&logoColor=FFFFFF&style=ShieldStyle" />     <img src="https://img.shields.io/badge/Raspberry Pi-A22846?logo=Raspberry-Pi&logoColor=FFFFFF&style=ShieldStyle" />
 
 CAD Modeling:
 
