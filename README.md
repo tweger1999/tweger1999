@@ -2,7 +2,7 @@
 
 
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/tristan-weger">
+  <a href="https://www.linkedin.com/in/tristan-weger">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://mail.google.com/mail/u/0/?source=mailto&to=tweger1999@gmail.com&fs=1&tf=cm">
