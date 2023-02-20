@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-##
+## :hammer_and_wrench: Tech Stack
   - Some Programming Languages Familiar With:     
 <img src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=FFFFFF&style=ShieldStyle" />     <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=FFFFFF&style=ShieldStyle" />     <img src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=FFFFFF&style=ShieldStyle" />     <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=FFFFFF&style=ShieldStyle" />
 
