@@ -5,7 +5,7 @@
   <a href="www.linkedin.com/in/tristan-weger">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://mail.google.com/mail/tweger1999@gmail.com">
+  <a href="https://mail.google.com/mail/u/0/?tab=rm#inbox?compose=DmwnWstwPRmmJfBstkPLsdCrbNmmGLvvkBrpjdDrqjTzTHQvlSrlxrjQpLbpvJZQvvgDNvZMshFl">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="https://youtube.com/@tristan995">
