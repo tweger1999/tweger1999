@@ -1,7 +1,7 @@
 ![Header](https://user-images.githubusercontent.com/87651777/219966905-7bc1e0b1-751d-42ee-9806-68f8b34bb062.png)
 
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
